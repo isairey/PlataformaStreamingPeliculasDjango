@@ -130,7 +130,7 @@ El proyecto permite:
 # 📂 Estructura del proyecto
 
 ```bash
-moviescraper/
+PlataformaStreamingPeliculasDjango/
 │
 ├── movies/
 ├── templates/
@@ -147,7 +147,7 @@ moviescraper/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone https://github.com/euhidaman/moviescraper.git
+git clone https://github.com/isairey/PlataformaStreamingPeliculasDjango.git
 ```
 
 ---
@@ -155,7 +155,7 @@ git clone https://github.com/euhidaman/moviescraper.git
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd moviescraper
+cd PlataformaStreamingPeliculasDjango
 ```
 
 ---
@@ -294,7 +294,7 @@ git push origin feature/new-feature
 
 <div align="center">
 
-## euhidaman
+## Isai Reyes
 
 Desarrollador enfocado en plataformas multimedia modernas y aplicaciones web con Django.
 
